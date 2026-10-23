@@ -43,13 +43,10 @@ I'm **Omid Zahedi**, a senior full-stack web developer and software architect fr
 
 ## WordPress products
 
-My WordPress themes and plugins are available on Rastchin (RTL-Theme): [rtl-theme.com/author/omidw/products](https://www.rtl-theme.com/author/omidw/products/)
+My WordPress themes and plugins :
+[rtl-theme.com/author/omidw/products](https://www.rtl-theme.com/author/omidw/products/)
 
-<div dir="rtl" align="right">
 
-قالب ها و افزونه های وردپرس من در راستچین عرضه می شوند.
-
-</div>
 
 ## Tech stack
 
