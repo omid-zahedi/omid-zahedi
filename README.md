@@ -47,7 +47,7 @@ My WordPress themes and plugins are available on Rastchin (RTL-Theme): [rtl-them
 
 <div dir="rtl" align="right">
 
-صفحه من در راستچین: [rtl-theme.com/author/omidw/products](https://www.rtl-theme.com/author/omidw/products/)
+قالب ها و افزونه های وردپرس من در راستچین عرضه می شوند.
 
 </div>
 
